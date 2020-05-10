@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.1359096b.chunk.css",
-    "main.js": "/static/js/main.4f62aeba.chunk.js",
-    "runtime-main.js": "/static/js/runtime-main.1d36532b.js",
-    "static/js/2.1569f9f9.chunk.js": "/static/js/2.1569f9f9.chunk.js",
-    "index.html": "/index.html",
-    "precache-manifest.b6e6156151c2bd95d7d5673825004ffe.js": "/precache-manifest.b6e6156151c2bd95d7d5673825004ffe.js",
-    "service-worker.js": "/service-worker.js",
-    "static/js/2.1569f9f9.chunk.js.LICENSE.txt": "/static/js/2.1569f9f9.chunk.js.LICENSE.txt"
+    "main.css": "/gta-map/static/css/main.1359096b.chunk.css",
+    "main.js": "/gta-map/static/js/main.4f62aeba.chunk.js",
+    "runtime-main.js": "/gta-map/static/js/runtime-main.c309e15b.js",
+    "static/js/2.deb80dd9.chunk.js": "/gta-map/static/js/2.deb80dd9.chunk.js",
+    "index.html": "/gta-map/index.html",
+    "precache-manifest.29ac2e6ab57e61fe6e161f42594d505e.js": "/gta-map/precache-manifest.29ac2e6ab57e61fe6e161f42594d505e.js",
+    "service-worker.js": "/gta-map/service-worker.js",
+    "static/js/2.deb80dd9.chunk.js.LICENSE.txt": "/gta-map/static/js/2.deb80dd9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.1d36532b.js",
-    "static/js/2.1569f9f9.chunk.js",
+    "static/js/runtime-main.c309e15b.js",
+    "static/js/2.deb80dd9.chunk.js",
     "static/css/main.1359096b.chunk.css",
     "static/js/main.4f62aeba.chunk.js"
   ]
