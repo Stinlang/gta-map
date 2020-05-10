@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5343da9189690896c51982a1c10a312d",
+    "revision": "2bb52673676cb0ccde95fd085d7855fa",
     "url": "/gta-map/index.html"
   },
   {
-    "revision": "461a2c5e75bba465ff68",
+    "revision": "7f89f160c06969863022",
     "url": "/gta-map/static/css/main.1359096b.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/gta-map/static/js/2.deb80dd9.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "461a2c5e75bba465ff68",
-    "url": "/gta-map/static/js/main.4f62aeba.chunk.js"
+    "revision": "7f89f160c06969863022",
+    "url": "/gta-map/static/js/main.0fe36971.chunk.js"
   },
   {
     "revision": "84ace0d3e4b9af21afbc",
