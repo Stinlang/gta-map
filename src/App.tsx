@@ -6,7 +6,7 @@ const mapStyle = {
   sources: {
     'raster-tiles': {
       type: 'raster',
-      tiles: ['/map-tiles/{z}/{x}/{y}.png'],
+      tiles: [`${window.location.pathname}map-tiles/{z}/{x}/{y}.png`],
       tileSize: 256,
     },
   },
